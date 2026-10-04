@@ -1,5 +1,7 @@
 # OrmBuf
 
+**English** | [汉语](./README.zh.md)
+
 ## Overview
 
 `OrmBuf` is a lightweight, non-intrusive C++11 serialization and deserialization library designed to provide efficient automatic serialization and deserialization functionality for C++ primitive data types. The library is distributed as header-only, meaning it does not require compilation or installation; you can simply include it in your project to start using it. Compared to traditional solutions like Protobuf, OrmBuf offers greater simplicity and efficiency, making it suitable for performance-critical applications.
